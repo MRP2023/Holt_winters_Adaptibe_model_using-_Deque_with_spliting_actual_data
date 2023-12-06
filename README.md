@@ -1,2 +1,2 @@
-# Holt_winters_Adaptibe_model_using-_Deque_with_spliting_actual_data
+# Holt_winters_Additive_model_using-_Deque_with_spliting_actual_data
 This python Script performs the Holt-Winters Adaptive Model with the help of linked list library also known as Deque and especially this script is very interesting because here we have tried to split the actual data to go under the mathematics calculation to predict the upcoming closing price and compare them with the other splitted actual data
